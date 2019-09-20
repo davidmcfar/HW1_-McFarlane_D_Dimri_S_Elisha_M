@@ -1,1 +1,2 @@
-# HW1_-McFarlane_D_Dimri_S_Elisha_M
+# This is our very cool team page!
+## created by Mafikiri Eilsha, David McFarlane, and Siddhant dimri!
